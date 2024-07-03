@@ -18,10 +18,12 @@ powerful tool to for great outcomes.
 Stream, Leadership line-of-sight, and strong Scrum teams are the key.
 
 • Agile organization assessment package – Fully programmable assessments for the organization and its 
-delivery teams. 
+delivery teams. In ZIP format. Reach out to jksmith@operational.art for help.
 
 • Burnup chart package – Programmable spreadsheet and instructions that provide forecasting for 
-release dates and cost. Suitable for any application that has team velocity data.
+release dates and cost. Suitable for any application that has team velocity data. ZIP format. Reach out to 
+jksmith@operational.artfor help.
 
 • State Gov Challenges and Solutions – My experiences and takeaways from working with state gov 
-Medicaid E&E programs. 
+Medicaid E&E programs, along with some recommendations to a major vendor for a state DHR program, given
+their current state.
